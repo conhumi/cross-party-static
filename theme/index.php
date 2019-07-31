@@ -1,0 +1,184 @@
+<?php get_header(); ?>
+  <section>
+    <div class="container py-12 mx-auto">
+      <div>
+        <div class="py-8">
+          <h1>
+            <p class="text-4xl font-bold">CROSS Party とは？</p>
+          </h1>
+        </div>
+        <div class="py-8">
+          <h2 class="leading-relaxed font-semibold">
+            <p class="text-3xl">
+              「CROSS」はこれまで、1000人規模の勉強会として2012年より開催されてきました。
+            </p>
+            <p class="text-3xl">
+              今年は第7回目として「CROSS Party 2019」が開催されます。
+            </p>
+          </h2>
+        </div>
+      </div>
+      <div class="py-4 min-w-full">
+        <img class="min-w-full" src="<?php bloginfo('template_directory'); ?>/images/cross2017-scene.png" />
+      </div>
+      <div class="py-8 leading-relaxed">
+        <p>
+          今回は、「興味の外側に会いに行く」をコンセプトとして、宇宙関係ビジネス、データ関連、技術的負債、
+        </p>
+        <p>
+          エンジニアの働き方、IT企業ではない企業でのエンジニアの働き方などテーマを元に、日本におけるトップエンジニアや有識者の方々がパネルディスカッションを行います。セッションは20程度を予定しております。
+        </p>
+        <p>
+          テクノロジーをコアとした交流の場 `CROSS`
+          は今年も進化します。時代に左右されることのないテクノロジーの交差を感じ、成長のきっかけとなることを願っています。
+        </p>
+        <br />
+        <p class="text-sm">
+          ※現在確定しているものではございませんので、予告なく変更される場合はございます。
+        </p>
+      </div>
+    </div>
+  </section>
+  <section class="container pb-16 mx-auto">
+    <div class="flex">
+      <div class="flex w-1/2">
+        <div class="min-w-full pr-2">
+          <a href="https://twitter.com/crossparty2019" target="_blank">
+            <button
+              class="min-w-full bg-twitter text-white font-bold py-6 px-auto border border-white rounded"
+            >
+              Twitter アカウントはこちら <i class="fa fa-angle-right"></i>
+            </button>
+          </a>
+        </div>
+      </div>
+      <div class="flex w-1/2">
+        <div class="min-w-full pl-2">
+          <a
+            href="https://www.facebook.com/pg/crossparty2019"
+            target="_blank"
+          >
+            <button
+              class="min-w-full bg-facebook text-white font-bold py-6 px-auto border border-white rounded"
+            >
+              Facebook ページはこちら <i class="fa fa-angle-right"></i>
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container py-16 mx-auto">
+      <h2 class="text-4xl font-bold h-24"><p>開催概要</p></h2>
+      <div>
+        <div class="flex align-bottom h-16">
+          <div class="flex w-1/3">
+            <p class="text-3xl font-semibold">
+              開催日時
+            </p>
+          </div>
+          <div class="flex w-2/3">
+            <div class="flex flex-col">
+              <p class="text-2xl">
+                2019年10月4日(金)
+              </p>
+              <p>
+                10:00 - 18:00 (9:00受付開始)
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="flex h-16">
+          <div class="flex w-1/3">
+            <p class="text-3xl font-semibold">
+              開催場所
+            </p>
+          </div>
+          <div class="flex w-2/3">
+            <div class="flex flex-col">
+              <p class="text-2xl">
+                大桟橋ホール
+              </p>
+              <p>
+                神奈川県横浜市中区海岸通1-1-4
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250.0811491315894!2d139.6463560513342!3d35.45278538015117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f40!3m3!1m2!1s0x60185cffb2d826f7%3A0x9f88529083fb131a!2z5aSn44GV44KT5qmL44Ob44O844Or!5e0!3m2!1sja!2sjp!4v1563883507238!5m2!1sja!2sjp"
+        class="min-w-full"
+        width="800"
+        height="600"
+        style="border:0"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </section>
+  <section class="bg-white text-black">
+    <div class="container py-16 mx-auto">
+      <div class="py-12 ">
+        <div class="h-16">
+          <h1 class="text-3xl font-bold"><p>スポンサー</p></h1>
+        </div>
+        <a
+          href="https://docs.google.com/forms/d/1Hrpjl8vAz39qKq6XxgwGE-CyyU0jG7DPd9CJS03wAmw"
+          target="_blank"
+        >
+          <button class="bg-orange-600 min-w-full py-8 px-24">
+            <div class="flex justify-between">
+              <div class="flex items-center">
+                <p class="text-3xl font-bold text-white">
+                  早割スポンサー 募集中！
+                </p>
+              </div>
+              <div class="flex align-middle">
+                <p class="text-3xl font-bold text-white">
+                  <span>お問い合わせ <i class="fa fa-angle-right"></i></span>
+                </p>
+              </div>
+            </div>
+          </button>
+        </a>
+      </div>
+      <div class="">
+        <div class="flex justify-start">
+          <p class="text-3xl font-semibold">主催</p>
+        </div>
+        <div class="flex justify-center">
+          <div class="px-8">
+            <img src="<?php bloginfo('template_directory'); ?>/images/jaipa.png" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="container pt-48 pb-32 mx-auto">
+      <div class="flex justify-center pb-12">
+        <div class="leading-relaxed">
+          <p class="text-3xl font-semibold h-12">
+            企画 / 運営
+          </p>
+          <p class="font-semibold">
+            CROSS Party 2019 実行委員会
+          </p>
+          <p>
+            ご要望、ご意見などは Twitter アカウント、 Facebook
+            ページまでお問い合わせください。
+          </p>
+        </div>
+      </div>
+      <div class="flex justify-center">
+        <p>©️CROSS Party 2019 実行委員会 All Rights Reserved.</p>
+      </div>
+    </div>
+  </section>
+<?php get_footer(); ?>

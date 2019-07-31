@@ -1,0 +1,21 @@
+/*
+Theme Name: CROSS 2019 Theme
+Theme URI: http://2019.cross-party.com/
+Author: Masahiro Terada, Takashi Hasegawa
+Description: Theme for Engineer Support CROSS 2019.
+Version: 1.38
+*/
+
+html {
+  background-image: url("images/main-visual.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bg-facebook {
+  background-color: #3b5998;
+}
+
+.bg-twitter {
+  background-color: #55acee;
+}
